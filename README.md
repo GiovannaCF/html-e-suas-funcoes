@@ -1,2 +1,2 @@
-# HTML-e-suas-Fun-es
+# HTML-e-suas-Funcoes
 Estudo prático sobre HTML e suas funções básicas
